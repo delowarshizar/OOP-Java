@@ -2,7 +2,7 @@ class DataType {
      public static void main(String[] args) {
          float marks = 70.6f;
          int a = 54;
-         long b = 64;
+         long b = 64l;
          String x = "Delowar Husain";
          double y = 4.4;
          char c = 'k';
